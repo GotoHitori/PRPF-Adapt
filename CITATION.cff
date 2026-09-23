@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Pangu-Conditioned Radar Precipitation Nowcasting with Structure-Preserving and Confidence-Aware Adaptation"
+type: software
+repository-code: "https://github.com/GotoHitori/PRPF-Adapt"
+license: MIT
+authors:
+  # TODO: complete the author list in the same order as the paper
+  - family-names: Guo
+    given-names: Zhiqing
+    affiliation: "Beijing Jiaotong University"

@@ -1,0 +1,13 @@
+name: prpf-adapt
+channels: [pytorch, nvidia, conda-forge]
+dependencies:
+  - python=3.10
+  - pytorch>=2.0
+  - pytorch-cuda=12.1
+  - numpy
+  - scipy
+  - xarray
+  - netcdf4
+  - einops
+  - tqdm
+  - matplotlib
