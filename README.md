@@ -37,15 +37,6 @@ Single checkpoints evaluated with the scripts in this repository.
 | M3 base generator | 7.6870 | 0.4693 | 0.3084 | 0.0372 | 0.2716 |
 | M3 + confidence-modulated band bias | 7.5735 | 0.4703 | 0.3084 | 0.0387 | 0.2725 |
 
-## Citation
-```bibtex
-@inproceedings{guo2027pangu,
-  title     = {Pangu-Conditioned Radar Precipitation Nowcasting with Structure-Preserving and Confidence-Aware Adaptation},
-  author    = {Guo, Zhiqing and others},
-  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year      = {2027}
-}
-```
 
 ## License
 Code: MIT. SEVIR, MeteoNet and Pangu-Weather are subject to their own licences.
